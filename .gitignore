@@ -1,6 +1,6 @@
 node_modules/
 backend/config/config.env
-/serviceAccountKey.json
+backend/config/serviceAccountKey.json
 /config/config.env
 *.env
 package-lock.json
